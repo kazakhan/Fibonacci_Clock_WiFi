@@ -1,2 +1,2 @@
 # Fibonacci_Clock_WiFi
-Wi-Fi based Fibonacci clock
+Wi-Fi Fibonacci clock based on https://www.instructables.com/The-Fibonacci-Clock/. I changed the code to just display the time and removed all but one button from the original. The button is used the change the palette displayed and when powering on it enables the WiFi Manager https://github.com/smurf0969/WiFiConnect. When connected to the internet it will update the time using NTP and auto adjust Australian Eastern Daylight Time using https://github.com/JChristensen/Timezone.
